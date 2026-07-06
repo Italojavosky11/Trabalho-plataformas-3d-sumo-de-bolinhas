@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BolinhaData
   nome: Amarela
   sprite: {fileID: 0}
+  material: {fileID: 2100000, guid: c9f333f7bd654bc428af34e31c335561, type: 2}
   velocidade: 8
   forca: 3
   peso: 0.8

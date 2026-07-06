@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BolinhaData
   nome: Azul
   sprite: {fileID: 0}
+  material: {fileID: 2100000, guid: 1bc2b96f2ec7a3c4394a50404a684df9, type: 2}
   velocidade: 7
   forca: 4
   peso: 1

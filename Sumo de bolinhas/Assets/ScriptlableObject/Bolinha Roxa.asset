@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BolinhaData
   nome: Roxa
   sprite: {fileID: 0}
+  material: {fileID: 2100000, guid: 15da0f70e32faec44918163dd9808ed0, type: 2}
   velocidade: 4
   forca: 8
   peso: 2.5

@@ -1,11 +1,13 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName="Bolinhas/Bolinha")]
+[CreateAssetMenu(menuName = "Bolinhas/Bolinha")]
 public class BolinhaData : ScriptableObject
 {
     public string nome;
 
-    public Sprite sprite;
+    public Sprite sprite;      // Tela de seleção
+
+    public Material material;  // Gameplay
 
     public float velocidade;
 

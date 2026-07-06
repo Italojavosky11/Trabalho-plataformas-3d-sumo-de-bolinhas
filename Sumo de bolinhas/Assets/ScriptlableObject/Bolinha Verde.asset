@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BolinhaData
   nome: Verde
   sprite: {fileID: 0}
+  material: {fileID: 2100000, guid: 85ecbb968ee220644a9e2e120e4a391a, type: 2}
   velocidade: 6
   forca: 5
   peso: 1.5
